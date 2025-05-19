@@ -1,2 +1,2 @@
 # Bank-Management-System
-This project is about a bank management system
+This project is about a bank management system where employee can register the customer and perform some operations like update the details of the customer,make some transactions for the customer from one to another in the bank, loan initiatization for the customer and a customer portal where the customer can update the password which is created default by the employee and view all the details of the customer and the transaction made
